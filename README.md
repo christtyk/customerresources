@@ -1,2 +1,6 @@
 # Customer Resources
-A collection of Customer Service/Support/Success/Experience Resources
+Purpose of Repository
+Types of Content
+Fields
+Labelling
+Contribution
